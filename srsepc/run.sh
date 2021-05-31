@@ -1,2 +1,2 @@
-sudo srsepc ~/srsLTE-sib12/sib12-conf/epc.conf
+sudo srsepc ~/srsLTE-plus-sib12/sib12-conf/epc.conf
 
